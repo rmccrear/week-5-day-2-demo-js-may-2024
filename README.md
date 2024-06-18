@@ -1,4 +1,4 @@
-# Day 1 Task
+# Day 2 Task
 
 DO NOT FORK THIS REPOSITORY for the assignment.
 
